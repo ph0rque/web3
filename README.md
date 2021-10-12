@@ -29,12 +29,8 @@ https://twitter.com/codingyuri/status/1441003819777896452
 
 # The Tech Stack
 
-|-----------------|
 | d'apps          |
 |-----------------|
 | smart contracts |
-|-----------------|
 | protocol        |
-|-----------------|
 | math            |
-|-----------------|
