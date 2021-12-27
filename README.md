@@ -33,7 +33,10 @@ Learning Resources about Web3
 # The Tech Stack
 
 | d'apps          |
-|-----------------|
 | smart contracts |
 | protocol        |
 | math            |
+
+# L1 Networks
+
+https://twitter.com/TaschaLabs/status/1475194717767798784
