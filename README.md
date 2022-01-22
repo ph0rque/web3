@@ -9,19 +9,19 @@ Learning Resources about Web3
 * [Why Web3 matters](https://future.a16z.com/why-web3-matters/)
 * [More Web3 Resources](https://twitter.com/chriscantino/status/1460339742764007427)
 
-## Blockchain Tool Companies
+# Networks
 
-* https://figment.io
-* https://www.alchemy.com/
-* https://infura.io/
-* https://www.quicknode.com/
-* https://hardhat.org/
+[The city analogy](https://medium.com/dragonfly-research/blockchains-are-cities-564327013f86)
+* L1s are cities
+* L2s and rollups are skyscrapers
+* interops are single-purpose towns for a given city
+* City <--> L1 mapping:
+  * ETH: NYC
+  * Sol: LA
+  * Avalanche: Chicago
+  * NEAR: San Francisco
 
-## Languages / Frameworks
-
-* solidity - smart contract language
-* ethers.js
-* [scaffold-eth](https://github.com/scaffold-eth/scaffold-eth)
+https://twitter.com/TaschaLabs/status/1475194717767798784
 
 ## Learning Resources
 
@@ -37,6 +37,10 @@ Learning Resources about Web3
 | protocol        |
 | math            |
 
-# L1 Networks
+More here: https://edgeandnode.com/blog/defining-the-web3-stack
 
-https://twitter.com/TaschaLabs/status/1475194717767798784
+## Languages / Frameworks
+
+* solidity - smart contract language
+* ethers.js
+* [scaffold-eth](https://github.com/scaffold-eth/scaffold-eth)
