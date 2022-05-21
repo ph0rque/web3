@@ -32,10 +32,11 @@ https://twitter.com/TaschaLabs/status/1475194717767798784
 
 # The Tech Stack
 
-| d'apps          |
-| smart contracts |
-| protocol        |
-| math            |
+* front-end: react/etc
+* smart contracts: chain-specific
+* databases: e.g. subgraph
+* storage: e.g. rweave
+* auth: Decentralized IDs
 
 More here: https://edgeandnode.com/blog/defining-the-web3-stack
 
